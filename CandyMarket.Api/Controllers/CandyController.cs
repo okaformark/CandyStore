@@ -7,6 +7,7 @@ using CandyMarket.Api.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 // first commit
+//second commit
 
 namespace CandyMarket.Api.Controllers
 {
