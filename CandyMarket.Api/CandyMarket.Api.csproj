@@ -4,6 +4,12 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <StartupObject>CandyMarket.Api.Program</StartupObject>
     <NoWin32Manifest>true</NoWin32Manifest>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
 
   <ItemGroup>
