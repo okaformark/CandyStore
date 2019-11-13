@@ -58,10 +58,7 @@ namespace CandyMarket.Api.Controllers
         //[HttpPost]
         public void Trade()
         {
-            /**
-             * flex goal: Trade Candy
-             * Hint: you're going to need to add Users to your application
-             */
+           
         }
     }
 }
